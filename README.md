@@ -1,2 +1,8 @@
 # Engeto-project #1
-Here are/ will 3 projects what I must be have to get certificate
+simple text parser
+
+# Engeto-project #2
+game center -> two game (Tic-tac-toe, Bulls&Cows)
+
+# Engeto-project #3
+web scraper
