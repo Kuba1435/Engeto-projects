@@ -11,6 +11,6 @@ Pro spuštění kódu budete potřebovat knihovny uložené v ``` requirements.t
 2. do konzole zadejte:
     -  ```pip install -r requirements.txt```
     -  popřípadě že nemáte doposud nainstalovaný manažer *pip* proveďte do konzole následující příkaz: ```pip install package_name```
-3. nyní by jste měli disponovat vším potřebným abyste mohli knihovny nainstalovat. 
+3. nyní by jste měli disponovat vším potřebným abyste mohli knihovny nainstalovat
     - v konzoli proveďte následující přikaz: ```pip install -r requirements.txt```     
 
