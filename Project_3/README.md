@@ -29,10 +29,19 @@ Projekt bude předveden na okresu Olomouc:
 #### Spuštění programu:
 >python project_3.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7102" "vysledky_olomouc.csv"
 #### Průběh stahování
-
+Při správném zadání vstupu:
 ```
 URL address check    ✓
 Checking name and data type of the file    ✓
 Getting data    ✓
 Writing data to the data file    ✓
+Returning output...
+```
+Při špatném zadání URL:
+```
+URL address check ✕
+```
+Při špatném zadání typu souboru:
+```
+Checking name and data type of the file    ✕
 ```
