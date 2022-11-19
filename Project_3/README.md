@@ -15,6 +15,6 @@ Pro spuštění kódu budete potřebovat knihovny uložené v ``` requirements.t
 
 ### Spuštění projektu
 Spuštění souboru ***project_3.py*** vyžaduje dva vstupy, a to:
-    - odkaz na požadovanou stránku
-    - název souboru, do kterého se mají data uložit končící **.csv**
+- odkaz na požadovanou stránku
+- název souboru, do kterého se mají data uložit končící **.csv**
     
