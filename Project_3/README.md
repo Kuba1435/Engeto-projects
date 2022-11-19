@@ -5,4 +5,5 @@ Třetí projekt na Engeto python Akademii
 Pomocí tohoto projektu si můžete zpřehlednit výsledky voleb do Poslanecké sněmovny z roku 2017.
 
 ### Instalace knihoven
-Pro spuštění kódu budete potřebovat knihovny uložené v ``` requirements.txt ```. Pro instalaci postupujte následovně: 1, zkontrolujte zda máte aktivní virtuální prostřední, do kterého chcete nainstalovat požadované knihovny
+Pro spuštění kódu budete potřebovat knihovny uložené v ``` requirements.txt ```. Pro instalaci postupujte následovně: 
+1, zkontrolujte zda máte aktivní virtuální prostřední, do kterého chcete nainstalovat požadované knihovny
