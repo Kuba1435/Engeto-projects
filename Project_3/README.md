@@ -21,3 +21,8 @@ Spuštění souboru ***project_3.py*** vyžaduje dva vstupy, a to:
 >python project_3.py <odkaz na stránku> <název souboru.csv>
 
 Následně se vám stáhnou data ze svoleného webu a uloží do .csv souboru
+
+### Ukázka projektu
+Projekt bude předveden na okresu Olomouc:
+1. argument: ```https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7102```
+2. argument: ```vysledky_olomouc.csv```
