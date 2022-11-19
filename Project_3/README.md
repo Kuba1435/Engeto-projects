@@ -51,8 +51,8 @@ Checking name and data type of the file    ✕
 code, location, registered, envelopes, valid,...
 552356, Babice, 370, 256, 254, 13, 0, 0, 10, 0	18, 25, 1, 5
 500526,Bělkovice-Lašťany, 1801, 1078, 1069, 97, 0, 0, 83, 1, 44, 81, 18, 6
-
-
+...
+```
 
 
 
