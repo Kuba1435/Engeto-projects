@@ -31,6 +31,9 @@ Projekt bude předveden na okresu Olomouc:
 #### Průběh stahování
 
 ```URL address check    ✓```
+
 ```Checking name and data type of the file    ✓```
+
 ```Getting data    ✓```
+
 ```Writing data to the data file    ✓```
