@@ -8,5 +8,8 @@ Pomocí tohoto projektu si můžete zpřehlednit výsledky voleb do Poslanecké 
 Pro spuštění kódu budete potřebovat knihovny uložené v ``` requirements.txt ```. **Pro instalaci postupujte následovně:**
 
 1. zkontrolujte zda máte aktivní virtuální prostřední, do kterého chcete nainstalovat požadované knihovny
-2. do konzole zadejte ```pip install -r requirements.txt```
+2. do konzole zadejte:
+  -  ```pip install -r requirements.txt```
+  -  popřípadě že nemáte doposud nainstalovaný manažer *pip* proveďte následující příkaz: 
+    ``pip install package_name````
 
