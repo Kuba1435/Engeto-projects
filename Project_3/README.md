@@ -20,7 +20,7 @@ Spuštění souboru ***project_3.py*** vyžaduje dva vstupy, a to:
 
 >python project_3.py <odkaz na stránku> <název souboru.csv>
 
-Následně se vám stáhnou data ze svoleného webu a uloží do .csv souboru
+Následně se vám stáhnou data ze zvoleného webu a uloží do .csv souboru
 
 ## Ukázka projektu
 Projekt bude předveden na okresu Olomouc:
@@ -46,7 +46,7 @@ Při špatném zadání typu souboru:
 URL address check    ✓
 Checking name and data type of the file    ✕
 ```
-Částečný výstup:
+#####Částečný výstup:
 ```
 code, location, registered, envelopes, valid, Občanská demokratická strana,...
 552356, Babice, 370, 256, 254, 13, 0, 0, 10, 0	18, 25, 1, 5
