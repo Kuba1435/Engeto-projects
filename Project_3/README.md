@@ -26,3 +26,5 @@ Následně se vám stáhnou data ze svoleného webu a uloží do .csv souboru
 Projekt bude předveden na okresu Olomouc:
 1. argument: ```https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7102```
 2. argument: ```vysledky_olomouc.csv```
+#### Spuštění programu:
+>python project_3.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7102" "vysledky_olomouc.csv"
