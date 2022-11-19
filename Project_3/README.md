@@ -43,5 +43,6 @@ URL address check ✕
 ```
 Při špatném zadání typu souboru:
 ```
+URL address check    ✓
 Checking name and data type of the file    ✕
 ```
