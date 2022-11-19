@@ -46,7 +46,7 @@ Při špatném zadání typu souboru:
 URL address check    ✓
 Checking name and data type of the file    ✕
 ```
-##### Částečný výstup:
+### Částečný výstup:
 ```
 code, location, registered, envelopes, valid, Občanská demokratická strana,...
 552356, Babice, 370, 256, 254, 13, 0, 0, 10, 0	18, 25, 1, 5
