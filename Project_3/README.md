@@ -46,3 +46,10 @@ Při špatném zadání typu souboru:
 URL address check    ✓
 Checking name and data type of the file    ✕
 ```
+Částečný výstup:
+```
+code, location, registered, envelopes, valid,...
+552356, Babice, 370, 256, 254, 13	0	0	10	0	18	25	1	5
+![image](https://user-images.githubusercontent.com/105818267/202874072-6ac346d7-2880-4dc3-9bc2-a1c674e18365.png)
+
+
