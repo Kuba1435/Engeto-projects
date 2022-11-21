@@ -119,7 +119,8 @@ class WebScraper:
             writer.writeheader()
             
             # # writing data row-wise into the csv file
-            for name, number, registered, envelopes, valid, table1_data, table2_data in zip(self.result[0], self.result[1], self.registered, self.envelopes, self.valid, self.table1_data, self.table2_data):
+            for name, number, registered, envelopes, valid, table1_data, table2_data in zip(self.result[0], self.result[1], self.registered, 
+                                                                                            self.envelopes, self.valid, self.table1_data, self.table2_data):
                 writer.writerow({
                     "code": number,
                     "location": name,
