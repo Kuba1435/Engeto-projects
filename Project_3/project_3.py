@@ -155,7 +155,7 @@ class WebScraper:
                 })
                 
     def input_check(self):
-        """simple function which check data and returning if the are correct or not
+        """simple function which check data and returning if they are correct or not
         """
         global responce
         global file_name
