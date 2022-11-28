@@ -1,5 +1,5 @@
 """
-projekt_3.py: třetí projekt do Engeto Online Python Akademie
+project_3.py: třetí projekt do Engeto Online Python Akademie
 author: Jakub Macura
 email: kubamacura@email.cz
 discord: Kuba1435#9487
